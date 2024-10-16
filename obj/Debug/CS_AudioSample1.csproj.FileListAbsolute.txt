@@ -1,0 +1,16 @@
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\CS_AudioSample1.exe.config
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\CS_AudioSample1.exe
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\CS_AudioSample1.pdb
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.Audio.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.StandardForms.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.StandardForms.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.Audio.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\CS_AudioSample1.ControlForm.resources
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\CS_AudioSample1.csproj.GenerateResource.Cache
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\CS_AudioSample1.exe
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\CS_AudioSample1.pdb

@@ -1,0 +1,68 @@
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.Audio.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.StandardForms.dll
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.StandardForms.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\Symbol.Audio.xml
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\SimpleAgroPrint.csproj.GenerateResource.Cache
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\SimpleAgroPrint.ControlForm.resources
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\SimplePrint.exe.config
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\SimplePrint.exe
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\bin\Debug\SimplePrint.pdb
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\SimplePrint.exe
+C:\Program Files (x86)\SAMPLES05\C#\CS_AudioSample1\obj\Debug\SimplePrint.pdb
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\SimplePrint.exe.config
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\SimplePrint.exe
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\SimplePrint.pdb
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.xml
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\Symbol.xml
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\Symbol.StandardForms.xml
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\bin\Debug\Symbol.Audio.xml
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\obj\Debug\SimpleAgroPrint.ControlForm.resources
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\obj\Debug\SimpleAgroPrint.csproj.GenerateResource.Cache
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\obj\Debug\SimplePrint.exe
+C:\Users\desarrollo\Desktop\CS_AudioSample1\CS_AudioSample1\obj\Debug\SimplePrint.pdb
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\obj\Debug\SimpleAgroPrint.ControlForm.resources
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\obj\Debug\SimpleAgroPrint.csproj.GenerateResource.Cache
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\obj\Debug\SimplePrint.exe
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\SimplePrint.exe.config
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\SimplePrint.exe
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\SimplePrint.pdb
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.Audio.dll
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.dll
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.dll
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.StandardForms.dll
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.ResourceCoordination.xml
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.xml
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.StandardForms.xml
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\bin\Debug\Symbol.Audio.xml
+C:\Users\araya\Desktop\Proyecto\CS_AudioSample1\obj\Debug\SimplePrint.pdb
+E:\PANTALLA\bin\Debug\SimplePrint.exe.config
+E:\PANTALLA\bin\Debug\SimplePrint.exe
+E:\PANTALLA\bin\Debug\SimplePrint.pdb
+E:\PANTALLA\bin\Debug\Symbol.ResourceCoordination.xml
+E:\PANTALLA\bin\Debug\Symbol.xml
+E:\PANTALLA\bin\Debug\Symbol.StandardForms.xml
+E:\PANTALLA\bin\Debug\Symbol.Audio.xml
+E:\PANTALLA\obj\Debug\ResolveAssemblyReference.cache
+E:\PANTALLA\obj\Debug\SimpleAgroPrint.ControlForm.resources
+E:\PANTALLA\obj\Debug\SimpleAgroPrint.csproj.GenerateResource.Cache
+E:\PANTALLA\obj\Debug\SimplePrint.exe
+E:\PANTALLA\obj\Debug\SimplePrint.pdb
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\SimplePrint.exe.config
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\SimplePrint.exe
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\SimplePrint.pdb
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\Symbol.ResourceCoordination.xml
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\Symbol.xml
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\Symbol.StandardForms.xml
+C:\Users\expled\Desktop\PANTALLA\bin\Debug\Symbol.Audio.xml
+C:\Users\expled\Desktop\PANTALLA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\expled\Desktop\PANTALLA\obj\Debug\SimpleAgroPrint.ControlForm.resources
+C:\Users\expled\Desktop\PANTALLA\obj\Debug\SimpleAgroPrint.csproj.GenerateResource.Cache
+C:\Users\expled\Desktop\PANTALLA\obj\Debug\SimplePrint.exe
+C:\Users\expled\Desktop\PANTALLA\obj\Debug\SimplePrint.pdb
